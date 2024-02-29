@@ -7,3 +7,4 @@ function isPalindrome(arr) {
     }
     return true;
   }
+console.log (isPalindrome([1,2,3,5,3,2,1]))
